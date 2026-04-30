@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>The Secret Record: Declassified Cold War Files</title>
+    <link>https://www.youtube.com/@thesecretrecord</link>
+    <language>en-us</language>
+    <copyright>© 2026 The Secret Record</copyright>
+    <description>Declassified Cold War files, narrated. CIA cables. KGB intercepts. Soviet submarines. We read what was hidden — verbatim. New file every Thursday.</description>
+    <lastBuildDate>Thu, 30 Apr 2026 09:23:44 +0000</lastBuildDate>
+    <generator>podcast_rss_generator.py (TheSecretRecord)</generator>
+    <atom:link href="https://thesecretrecord.github.io/the-secret-record-podcast/rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>The Secret Record</itunes:author>
+    <itunes:summary>Declassified Cold War files, narrated. CIA cables. KGB intercepts. Soviet submarines. We read what was hidden — verbatim. New file every Thursday.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>The Secret Record</itunes:name>
+      <itunes:email>thesecretrecord.yt@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/channel-cover-3000.png"/>
+    <itunes:category text="History">
+      <itunes:category text="Society &amp; Culture"/>
+    </itunes:category>
+    <podcast:locked owner="thesecretrecord.yt@gmail.com">no</podcast:locked>
+    <item>
+      <title>File One: Cuban Missile Crisis — The Submarine That Almost Fired</title>
+      <itunes:subtitle>The declassified files of October 27, 1962. Three nuclear close calls.</itunes:subtitle>
+      <description>On October 27, 1962, three things were happening at once — and none of them were in the newspapers.
+
+A Soviet submarine, B-59, was 200 feet beneath the Atlantic when its captain ordered a 10-kiloton nuclear torpedo to be assembled for combat. The American destroyers above didn't know the submarine was nuclear-armed. The Soviet crew didn't know that the depth charges they were taking were practice. Three officers had to agree to fire. One of them said no. His name was Vasily Arkhipov.
+
+That same night, in a Washington restaurant, the KGB station chief — a man who had once handled Julius Rosenberg — proposed a peace deal he had no authorization from Moscow to propose.
+
+And in his embassy office, the Soviet ambassador wrote a cable, classified Top Secret with the marking &quot;making copies prohibited,&quot; recording what the President's brother had just told him: that John F. Kennedy was running out of time to stop his own military.
+
+This is the file. Three voices. Three places. All declassified. All on the record.
+
+— Vadim Orlov's memoir, published by the National Security Archive
+— Anatoly Dobrynin's cable, declassified in the early 1990s
+— Alexander Feklisov's PBS interview, given in his eighties
+
+Watch the full narrated documentary on YouTube:
+https://www.youtube.com/watch?v=UrgQXsJ3CqU
+
+Read the long-form deep dive on Medium:
+https://medium.com/the-secret-record/cuban-missile-crisis-three-files
+
+Sources &amp; further reading:
+— National Security Archive, George Washington University: nsarchive.gwu.edu
+— CIA FOIA Reading Room: cia.gov/readingroom
+— Foreign Relations of the United States, Vol. XI
+
+Subscribe wherever you listen. New file every Thursday.
+
+Tags: cold war, declassified, cuban missile crisis, cia, kgb, history, nuclear, espionage</description>
+      <content:encoded><![CDATA[On October 27, 1962, three things were happening at once — and none of them were in the newspapers.
+
+A Soviet submarine, B-59, was 200 feet beneath the Atlantic when its captain ordered a 10-kiloton nuclear torpedo to be assembled for combat. The American destroyers above didn't know the submarine was nuclear-armed. The Soviet crew didn't know that the depth charges they were taking were practice. Three officers had to agree to fire. One of them said no. His name was Vasily Arkhipov.
+
+That same night, in a Washington restaurant, the KGB station chief — a man who had once handled Julius Rosenberg — proposed a peace deal he had no authorization from Moscow to propose.
+
+And in his embassy office, the Soviet ambassador wrote a cable, classified Top Secret with the marking &quot;making copies prohibited,&quot; recording what the President's brother had just told him: that John F. Kennedy was running out of time to stop his own military.
+
+This is the file. Three voices. Three places. All declassified. All on the record.
+
+— Vadim Orlov's memoir, published by the National Security Archive
+— Anatoly Dobrynin's cable, declassified in the early 1990s
+— Alexander Feklisov's PBS interview, given in his eighties
+
+Watch the full narrated documentary on YouTube:
+https://www.youtube.com/watch?v=UrgQXsJ3CqU
+
+Read the long-form deep dive on Medium:
+https://medium.com/the-secret-record/cuban-missile-crisis-three-files
+
+Sources &amp; further reading:
+— National Security Archive, George Washington University: nsarchive.gwu.edu
+— CIA FOIA Reading Room: cia.gov/readingroom
+— Foreign Relations of the United States, Vol. XI
+
+Subscribe wherever you listen. New file every Thursday.
+
+Tags: cold war, declassified, cuban missile crisis, cia, kgb, history, nuclear, espionage]]></content:encoded>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <itunes:author>The Secret Record</itunes:author>
+      <itunes:summary>The declassified files of October 27, 1962. Three nuclear close calls.</itunes:summary>
+      <enclosure url="https://thesecretrecord.github.io/the-secret-record-podcast/audio/episode-1-cuban-missile.mp3" length="17501768" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://thesecretrecord.github.io/the-secret-record-podcast/audio/episode-1-cuban-missile.mp3</guid>
+      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/cover-episode-1.png"/>
+    </item>
+    <item>
+      <title>File Two: Berlin Wall — The CIA Cable That Was Filed and Forgotten</title>
+      <itunes:subtitle>A signals intercept warned 4 days before. Classified for 52 years.</itunes:subtitle>
+      <description>On June 15, 1961, the leader of East Germany was asked at a press conference whether he was planning to build a wall. He said no. Fifty-seven days later, the wall went up.
+
+The CIA had been warning about a possible border closure for three years. They knew it was possible. They didn't know the date. But on August 9, 1961 — four days before the wire went up — a signals intelligence unit intercepted a message from inside the East German Communist Party. The Intelligence Watch Committee assessed it. They wrote that the closure &quot;might&quot; happen. The cable was logged, reviewed, passed to the Daily Intelligence Summary for the President — and not acted upon.
+
+President Kennedy was on his yacht when the wall went up. He was notified at noon. He was reportedly furious.
+
+This file reads from the CIA's own declassified history of the Berlin Crisis — written by Dr. Donald Steury, classified for decades, eventually released through the National Archives. It reads the testimony of David Murphy, the chief of the CIA's Berlin Operations Base, who briefed Kennedy that week. And it tells the story of the 1961 SIGINT intercept that was declassified in 2013 — fifty-two years late.
+
+The Presidential Daily Briefs from August 10 to August 14, 1961 — the ones Kennedy received on his yacht — are still classified.
+
+Watch the full narrated documentary on YouTube:
+https://www.youtube.com/watch?v=qvriARm9jhM
+
+Read the long-form deep dive on Medium:
+https://medium.com/the-secret-record/berlin-wall-cia-cable
+
+Sources:
+— Steury, Donald P. &quot;Bitter Measures: Intelligence and Action in the Berlin Crisis, 1961.&quot; CIA History Staff. Declassified.
+— Murphy, David E. &quot;Battleground Berlin: CIA vs. KGB in the Cold War.&quot; Yale University Press, 1997.
+— Foreign Relations of the United States, Vol. XIV
+— National Security Archive, George Washington University
+
+Next file drops Thursday: Able Archer 83 — the NATO exercise the KGB believed was a real first strike.
+
+Subscribe wherever you listen.
+
+Tags: cold war, declassified, berlin wall, cia, history, nato, east germany</description>
+      <content:encoded><![CDATA[On June 15, 1961, the leader of East Germany was asked at a press conference whether he was planning to build a wall. He said no. Fifty-seven days later, the wall went up.
+
+The CIA had been warning about a possible border closure for three years. They knew it was possible. They didn't know the date. But on August 9, 1961 — four days before the wire went up — a signals intelligence unit intercepted a message from inside the East German Communist Party. The Intelligence Watch Committee assessed it. They wrote that the closure &quot;might&quot; happen. The cable was logged, reviewed, passed to the Daily Intelligence Summary for the President — and not acted upon.
+
+President Kennedy was on his yacht when the wall went up. He was notified at noon. He was reportedly furious.
+
+This file reads from the CIA's own declassified history of the Berlin Crisis — written by Dr. Donald Steury, classified for decades, eventually released through the National Archives. It reads the testimony of David Murphy, the chief of the CIA's Berlin Operations Base, who briefed Kennedy that week. And it tells the story of the 1961 SIGINT intercept that was declassified in 2013 — fifty-two years late.
+
+The Presidential Daily Briefs from August 10 to August 14, 1961 — the ones Kennedy received on his yacht — are still classified.
+
+Watch the full narrated documentary on YouTube:
+https://www.youtube.com/watch?v=qvriARm9jhM
+
+Read the long-form deep dive on Medium:
+https://medium.com/the-secret-record/berlin-wall-cia-cable
+
+Sources:
+— Steury, Donald P. &quot;Bitter Measures: Intelligence and Action in the Berlin Crisis, 1961.&quot; CIA History Staff. Declassified.
+— Murphy, David E. &quot;Battleground Berlin: CIA vs. KGB in the Cold War.&quot; Yale University Press, 1997.
+— Foreign Relations of the United States, Vol. XIV
+— National Security Archive, George Washington University
+
+Next file drops Thursday: Able Archer 83 — the NATO exercise the KGB believed was a real first strike.
+
+Subscribe wherever you listen.
+
+Tags: cold war, declassified, berlin wall, cia, history, nato, east germany]]></content:encoded>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <itunes:author>The Secret Record</itunes:author>
+      <itunes:summary>A signals intercept warned 4 days before. Classified for 52 years.</itunes:summary>
+      <enclosure url="https://thesecretrecord.github.io/the-secret-record-podcast/audio/episode-2-berlin-wall.mp3" length="19520511" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://thesecretrecord.github.io/the-secret-record-podcast/audio/episode-2-berlin-wall.mp3</guid>
+      <itunes:duration>00:13:33</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/cover-episode-2.png"/>
+    </item>
+  </channel>
+</rss>

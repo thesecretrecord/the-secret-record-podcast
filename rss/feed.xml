@@ -6,7 +6,7 @@
     <language>en-us</language>
     <copyright>© 2026 The Secret Record</copyright>
     <description>Declassified Cold War files, narrated. CIA cables. KGB intercepts. Soviet submarines. We read what was hidden — verbatim. New file every Thursday.</description>
-    <lastBuildDate>Thu, 30 Apr 2026 09:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:41:34 +0000</lastBuildDate>
     <generator>podcast_rss_generator.py (TheSecretRecord)</generator>
     <atom:link href="https://thesecretrecord.github.io/the-secret-record-podcast/rss/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>The Secret Record</itunes:author>
@@ -17,13 +17,12 @@
       <itunes:name>The Secret Record</itunes:name>
       <itunes:email>thesecretrecord.yt@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/channel-cover-3000.png"/>
-    <itunes:category text="History">
-      <itunes:category text="Society &amp; Culture"/>
-    </itunes:category>
+    <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/channel-cover-3000.jpg"/>
+    <itunes:category text="History"/>
     <podcast:locked owner="thesecretrecord.yt@gmail.com">no</podcast:locked>
     <item>
       <title>File One: Cuban Missile Crisis — The Submarine That Almost Fired</title>
+      <link>https://www.youtube.com/watch?v=UrgQXsJ3CqU</link>
       <itunes:subtitle>The declassified files of October 27, 1962. Three nuclear close calls.</itunes:subtitle>
       <description>On October 27, 1962, three things were happening at once — and none of them were in the newspapers.
 
@@ -91,10 +90,11 @@ Tags: cold war, declassified, cuban missile crisis, cia, kgb, history, nuclear, 
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/cover-episode-1.png"/>
+      <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/cover-episode-1.jpg"/>
     </item>
     <item>
       <title>File Two: Berlin Wall — The CIA Cable That Was Filed and Forgotten</title>
+      <link>https://www.youtube.com/watch?v=qvriARm9jhM</link>
       <itunes:subtitle>A signals intercept warned 4 days before. Classified for 52 years.</itunes:subtitle>
       <description>On June 15, 1961, the leader of East Germany was asked at a press conference whether he was planning to build a wall. He said no. Fifty-seven days later, the wall went up.
 
@@ -160,7 +160,7 @@ Tags: cold war, declassified, berlin wall, cia, history, nato, east germany]]></
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/cover-episode-2.png"/>
+      <itunes:image href="https://thesecretrecord.github.io/the-secret-record-podcast/cover/cover-episode-2.jpg"/>
     </item>
   </channel>
 </rss>

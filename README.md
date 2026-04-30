@@ -8,8 +8,8 @@ New file every Thursday.
 
 ## Listen on
 
-- **Spotify**: (Pending — submitted)
-- **Apple Podcasts**: (Pending — submitted)
+- **Spotify**: https://open.spotify.com/show/3Nyc0OGqguXZbUp5TL22HE
+- **Apple Podcasts**: (Pending — submission planned)
 - **RSS feed**: https://thesecretrecord.github.io/the-secret-record-podcast/rss/feed.xml
 
 ## Watch on YouTube
